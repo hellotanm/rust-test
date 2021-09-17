@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.swp
+
+/target/
+**/*.rs.bk
+
+/docs/
+.env
